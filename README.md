@@ -21,7 +21,7 @@ This is my life right now:
 
 Here are some ideas to get you started:
 -->
-
+<!--
 - 🔭 I’m currently working on computer programming.
 - 🌱 I’m currently learning how to program.
 - 👯 I’m looking to collaborate on computer programming.
