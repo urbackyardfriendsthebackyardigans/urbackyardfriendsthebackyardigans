@@ -13,7 +13,7 @@ This is my life right now:
 - 💬 Ask me about computer programming.
 - 📫 How to reach me: computer programming.
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: Computer programming is fun.
+- ⚡ Fun fact: Computer programming is computer programming.
 
 
 <!--
